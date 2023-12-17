@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\acer\source\repos\DataStructure\DataStructure\print.h(29,92): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\acer\source\repos\DataStructure\DataStructure\print.h(33,77): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\acer\source\repos\DataStructure\DataStructure\print.h(36,77): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\acer\source\repos\DataStructure\DataStructure\print.h(38,76): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\acer\source\repos\DataStructure\DataStructure\print.h(39,49): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\acer\source\repos\DataStructure\DataStructure\print.h(41,81): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\acer\source\repos\DataStructure\DataStructure\print.h(43,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\DataStructure\DataStructure\print.h(48,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  DataStructure.vcxproj -> C:\Users\acer\source\repos\DataStructure\x64\Debug\DataStructure.exe
